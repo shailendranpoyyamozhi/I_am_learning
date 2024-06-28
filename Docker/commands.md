@@ -55,7 +55,3 @@ docker exec -it name /bin/bash
 docker exec -it name ls
 
 ```
-
-
-
-
