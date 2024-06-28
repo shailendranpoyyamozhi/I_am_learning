@@ -57,9 +57,9 @@ docker exec -it name ls
 ```
 ## Writing a Docker file
 - It is efficient to write a docker file for running.
-- It is done by creating [Dockerfile](https://www.youtube.com/watch?v=SAMPOK_lazw&t=179s&ab_channel=ArticulatedRobotics)
-Here is an example where ROS humble is ran and some commands are run.
-It also will copy config files from the local folder to the image.
+- It is done by creating [Dockerfile](https://www.youtube.com/watch?v=SAMPOK_lazw&t=179s&ab_channel=ArticulatedRobotics).
+- Here is an example where ROS humble is ran and some commands are run.
+- It also will copy config files from the local folder to the image.
 
 ```
 FROM ros:humble
