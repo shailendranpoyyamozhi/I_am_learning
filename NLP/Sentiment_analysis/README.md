@@ -7,6 +7,8 @@ This includes:
         - Roberta pre-trained model
 * Sentiment analysis using LSTM (IMDB dataset) = NLP_LSTM.ipynb 
 * Sentiment analysis (NLP_model.ipynb) using the IMDB dataset.(https://www.kaggle.com/code/arunmohan003/sentiment-analysis-using-lstm-pytorch/notebook) Different types of models:
-    - LSTM model.
+    - LSTM model
+    - BILSTM model
+    - CNN model
 
 
